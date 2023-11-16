@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(116, 116, 223, 0.534);
+    color: black;
+    font-family: 'Kanit', sans-serif;
+}
+
+/*Así se pone un comment*/
+
+h1{
+    color: rgb(145, 27, 119);
+}
+
+h3{
+    color: rgb(83, 15, 83);
+}
+
+p{
+    color: rgb(168, 46, 140);
+}
+
+.img1{
+    width: 325px;
+    height: 200px;
+    border-style: double;
+    border-width: 8px;
+    border-color: rgb(92, 30, 150);
+}
+
+.img2{
+    width: 325px;
+    height: 180px;
+    border-style: double;
+    border-width: 8px;
+    border-color: rgb(92, 30, 150);
+}
+
+footer{
+    background-color: black;
+}
+
+small, a{
+    color: whitesmoke;
+    padding-bottom: 0;
+}
